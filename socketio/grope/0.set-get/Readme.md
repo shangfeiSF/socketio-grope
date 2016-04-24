@@ -1,0 +1,1 @@
+socket.io已经废弃了socket.get socket.set方法

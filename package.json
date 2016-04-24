@@ -1,0 +1,23 @@
+{
+  "name": "socketio-grope",
+  "version": "1.0.0",
+  "description": "JavaScript, Nodejs, Net, Socket.io, Express, Chatroom",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shangfeiSF/socketio-grope.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Nodejs",
+    "Net",
+    "Socket.io",
+    "Express",
+    "Chatroom"
+  ],
+  "author": "shangfeiSF",
+  "license": "ISC"
+}
