@@ -23,6 +23,9 @@ function ChatRoom(config) {
   }, {
     path: '/chat.client.css',
     file: 'chat.client.css'
+  }, {
+    path: '/jquery.js',
+    file: 'jquery.js'
   }]
 
   this.router()
